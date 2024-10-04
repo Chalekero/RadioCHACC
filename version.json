@@ -1,5 +1,5 @@
 {
   "latest_version": "2.8.0",
-  "url": "https://example.com/download",  // URL para descargar la nueva versión
-  "release_notes": "Corrección de errores y mejoras en el rendimiento."  // Notas de la versión
+  "url": "https://example.com/download",
+  "release_notes": "Corrección de errores y mejoras en el rendimiento de transmision."
 }
