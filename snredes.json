@@ -1,0 +1,74 @@
+{
+  "6:00": {
+    "name": "Locutor 1",
+    "facebook": "https://facebook.com/locutor1",
+    "instagram": "https://instagram.com/locutor1",
+    "tiktok": "https://tiktok.com/@locutor1",
+    "youtube": "https://youtube.com/c/locutor1",
+    "whatsapp": "https://wa.me/123456789",
+    "sitio": "https://www.locutor1.com"
+  },
+  "8:00": {
+    "name": "Locutor 2",
+    "facebook": "https://facebook.com/locutor2",
+    "instagram": "https://instagram.com/locutor2",
+    "tiktok": "https://tiktok.com/@locutor2",
+    "youtube": "https://youtube.com/c/locutor2",
+    "whatsapp": "https://wa.me/987654321",
+    "sitio": "https://www.locutor2.com"
+  },
+  "10:00": {
+    "name": "Locutor 3",
+    "facebook": "https://facebook.com/locutor3",
+    "instagram": "https://instagram.com/locutor3",
+    "tiktok": "https://tiktok.com/@locutor3",
+    "youtube": "https://youtube.com/c/locutor3",
+    "whatsapp": "https://wa.me/1122334455",
+    "sitio": "https://www.locutor3.com"
+  },
+  "13:00": {
+    "name": "Locutor 4",
+    "facebook": "https://facebook.com/locutor4",
+    "instagram": "https://instagram.com/locutor4",
+    "tiktok": "https://tiktok.com/@locutor4",
+    "youtube": "https://youtube.com/c/locutor4",
+    "whatsapp": "https://wa.me/2233445566",
+    "sitio": "https://www.locutor4.com"
+  },
+  "14:00": {
+    "name": "Locutor 5",
+    "facebook": "https://facebook.com/locutor5",
+    "instagram": "https://instagram.com/locutor5",
+    "tiktok": "https://tiktok.com/@locutor5",
+    "youtube": "https://youtube.com/c/locutor5",
+    "whatsapp": "https://wa.me/3344556677",
+    "sitio": "https://www.locutor5.com"
+  },
+  "16:00": {
+    "name": "Locutor 6",
+    "facebook": "https://facebook.com/locutor6",
+    "instagram": "https://instagram.com/locutor6",
+    "tiktok": "https://tiktok.com/@locutor6",
+    "youtube": "https://youtube.com/c/locutor6",
+    "whatsapp": "https://wa.me/4455667788",
+    "sitio": "https://www.locutor6.com"
+  },
+  "18:00": {
+    "name": "Locutor 7",
+    "facebook": "https://facebook.com/locutor7",
+    "instagram": "https://instagram.com/locutor7",
+    "tiktok": "https://tiktok.com/@locutor7",
+    "youtube": "https://youtube.com/c/locutor7",
+    "whatsapp": "https://wa.me/5566778899",
+    "sitio": "https://www.locutor7.com"
+  },
+  "21:00": {
+    "name": "Locutor 8",
+    "facebook": "https://facebook.com/locutor8",
+    "instagram": "https://instagram.com/locutor8",
+    "tiktok": "https://tiktok.com/@locutor8",
+    "youtube": "https://youtube.com/c/locutor8",
+    "whatsapp": "https://wa.me/6677889900",
+    "sitio": "https://www.locutor8.com"
+  }
+}
